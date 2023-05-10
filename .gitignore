@@ -1,0 +1,12 @@
+#IGNORA los materiales
+/MATERIAL/
+
+# ignora los rar
+*.rar
+
+# ignora los docs
+*.pdf
+*.txt
+
+#workspaces
+*.code-workspace
